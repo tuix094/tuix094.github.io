@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Fruit Design placeholder">
+<defs><pattern id="h" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(-38)"><rect width="24" height="24" fill="#cfe3ee"/><rect width="2" height="24" fill="#9fbfd6"/></pattern></defs>
+<rect width="800" height="500" fill="url(#h)"/>
+<rect x="60" y="170" width="680" height="160" rx="10" fill="#fbfcfd" stroke="#8db3cb" stroke-width="3"/>
+<text x="400" y="242" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#16212e">Fruit Design</text>
+<text x="400" y="285" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#4a5869">Add your image as activity-1.jpg</text>
+</svg>
